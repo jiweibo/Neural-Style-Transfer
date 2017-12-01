@@ -26,9 +26,9 @@ Implement Neural Style Transfer Using Pytorch
         <td><img src='images/output/starry_img.jpg' height="185px"></td>
     </tr>
     <tr>
-        <td><img src='images/content/Dipping-sun.jpg' height="185px"></td>
+        <td><img src='images/content/Dipping-Sun.jpg' height="185px"></td>
         <td><img src='images/style/picasso.jpg' height="185px"></td>
-        <td><img src='images/output/picassoDipping-sun.jpg' height="185px"></td>
+        <td><img src='images/output/picassoDipping-Sun.jpg' height="185px"></td>
     </tr>
     <tr>
         <td><img src='images/content/winter-wolf.jpg' height="185px"></td>
